@@ -1,0 +1,27 @@
+**Install cv2 
+
+ Check Your Folder
+ Run this to list files/folders:
+ In terminal write: dir
+
+Create a Virtual Environment
+Run in terminal: python -m venv venv
+
+Activate It in PowerShell
+Run in terminal: .\venv\Scripts\Activate.ps1
+
+If this doesn’t work, try:
+Run in terminal: .\venv\Scripts\activate
+
+**Install TensorFlow : pip install tensorflow
+
+**Install numpy: pip install numpy
+
+**install tensorflow_hub as hub: install tensorflow_hub as hub
+
+**install pandas:pip install pandas
+
+**Install Pillow (for Image and ImageTk) :pip install Pillow
+
+**install the pyttsx3: pip install pyttsx3
+
